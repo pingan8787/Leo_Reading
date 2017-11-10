@@ -4,7 +4,7 @@
 
 这里主要是我在平常`工作生活` 中，搜集的一些具有`阅读和学习` 的文章，欢迎各位阅读。并且内容我在持续更新中，如有错误，烦请指出，感谢。
 
-详细链接：[点击打开](https://github.com/pingan8787/Leo_Reading/issues)
+详细链接：[点击打开](https://github.com/pingan8787/Leo_Reading/issues)  
 个人网站：[点击打开](www.pingan8787.com)
 > 注意：请将整个文件clone下来打开阅读，因为都是html网页。
 > 另外，每天我也会通过 `Issues` 分享一些不错的文章，欢迎查看。
